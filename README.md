@@ -100,6 +100,6 @@ A continuación, se detalla la matriz de auditoría empleada para mitigar los ri
 | **Imagen 3 (Estudio TV)** | Alucinación técnica en la fisonomía y estructura de equipos de filmación. | Técnico / Veracidad | Se agregaron términos estandarizados de la industria (`cinema camera on a dolly`, `ceiling-mounted grid lighting`) para anclar el modelo a referencias técnicas reales y evitar deformaciones en el render. |
 | **Catálogo General** | Generación de expectativas falsas sobre proyectos ya instalados por la empresa. | Transparencia | Se implementará un *disclaimer* explícito en el pie de los activos visuales aclarando que corresponden a "imágenes de concepto arquitectónico generadas mediante IA". |
 | **Audios 1 y 2 (ElevenLabs)** | Sesgos de representación o problemas de accesibilidad idiomática. | Social / Inclusión | Se configuraron prompts CLIP en inglés nativo y se seleccionaron modelos de voz específicos de mercado estadounidense (Marcus/Thomas) con acentos limpios y entonación ejecutiva para validar la autoridad B2B de la marca. |
-<img width="1672" height="941" alt="Imagen IA 1" src="https://github.com/user-attachments/assets/cab1df38-7954-42b3-b562-5b1bcf92afa9" />
-<img width="1672" height="941" alt="Imagen IA 2" src="https://github.com/user-attachments/assets/89efeddb-c0ba-4e74-86fe-4c2d330b3a4a" />
-<img width="1672" height="941" alt="Imagen IA 3" src="https://github.com/user-attachments/assets/1fdb6011-596a-44b6-9b2a-1ce420ff3508" />
+<img width="1672" height="941" alt="Imagen IA 1" src="https://github.com/user-attachments/assets/1ab62f7a-a7b4-434e-9b69-6dd9714f15cc" />
+<img width="1672" height="941" alt="Imagen IA 2" src="https://github.com/user-attachments/assets/d5daf4e7-f6df-48ec-a6b8-25cf7fb08d21" />
+<img width="1672" height="941" alt="Imagen IA 3" src="https://github.com/user-attachments/assets/d380ce4a-977f-447f-b3b7-e1231eb6a739" />
