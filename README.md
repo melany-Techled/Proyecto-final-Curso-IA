@@ -80,8 +80,26 @@ El cine en casa ya no se mide en pulgadas, se mide en micras. Con tecnología Mi
 
 *   **Clip de Audio 1: Spot Comercial Externo (Nicho Lujo USA - Residencial/Cine)**
     *   *Configuración*: Voz: "Antoni" o "George" (Voz americana, joven, enérgica, sofisticada y de total confianza) | Estabilidad: 65% | Claridad: 85%.
-    *   *Prompt CLIP*: `[Context]: A premium radio and digital audio commercial for the US luxury market introducing a high-end MicroLED display line. [Length]: 30-second concise script (around 70 words). [Intent]: Elegant yet enthusiastic voice. Confident, modern, and high-tech tone. Young company vibe pointing to the future. [Purpose]: Highlight immediate stock, nationwide shipping, and crystal-clear visual benefits using simple language.`
-<img width="1672" height="941" alt="Imagen IA 1" src="https://github.com/user-attachments/assets/f31c4bc6-deac-4a08-ba5e-d89e3209ba58" />
-<img width="1672" height="941" alt="Imagen IA 2" src="https://github.com/user-attachments/assets/5c49cb46-c36e-4473-8a55-80a0a68c3989" />
-<img width="1672" height="941" alt="Imagen IA 3" src="https://github.com/user-attachments/assets/bba42e57-b48d-4bfb-9ad0-73089b506515" />
+    *       *   *Prompt CLIP*: `[Context]: A premium radio and digital audio commercial for the US luxury market introducing a high-end MicroLED display line. [Length]: 30-second concise script (around 70 words). [Intent]: Elegant yet enthusiastic voice. Confident, modern, and high-tech tone. Young company vibe pointing to the future. [Purpose]: Highlight immediate stock, nationwide shipping, and crystal-clear visual benefits using simple language.`
+    *   *Script*: `"Home cinema used to be about screen size. TechLed Infinity is about visual perfection. Meet our newest MicroLED technology. Cleaner blacks, brighter colors, and a refresh rate so fast your eyes won't believe it. No technical jargon, just pure, uninterrupted reality. In stock right now, shipping nationwide across the US today. Upgrade your vision. TechLed: We are visual innovation."`
 
+*   **Clip de Audio 2: Presentación B2B Exclusiva (Nicho: Hollywood / Expertos en Cine)**
+    *   *Configuración*: Voz: "Thomas" o "Adam" (Voz americana madura, profunda, estilo productor senior que transmite máxima autoridad) | Estabilidad: 75% | Claridad: 90%.
+    *   *Prompt CLIP*: `[Context]: A premium B2B audio presentation or digital ad targeted directly at Hollywood film producers, studio directors, and cinematographers in the US. [Length]: 45-second polished script (around 100 words). [Intent]: Highly elegant, professional, confident, and sophisticated. It speaks with authority, addressing industry experts with a tech-forward attitude. [Purpose]: Showcase the immediate availability and technical reliability of TechLed Infinity for virtual production stages, emphasizing zero camera flicker and faster workflows.`
+    *   *Script*: `"To the creators shaping the future of cinema: TechLed Infinity is here. Our new MicroLED video walls are engineered for elite virtual production. Forget complex technical calibration. The benefit is simple: absolute in-camera depth, flawless contrast, and a refresh rate built to eliminate camera flicker on any cinema rig. No delays, no heavy post-production. We offer immediate US stock and fastest installation, so your studio never stops moving. Welcome to seamless storytelling. TechLed: We are visual innovation."`
+
+---
+
+## 📊 4. Auditoría Ética y Responsabilidad
+
+A continuación, se detalla la matriz de auditoría empleada para mitigar los riesgos asociados con la generación de contenidos mediante Inteligencia Artificial Generativa:
+
+| Activo Auditado | Riesgo Detectado | Tipo de Riesgo | Estrategia de Mitigación (Acción Tomada) |
+| :--- | :--- | :--- | :--- |
+| **Imagen 2 (Gamers)** | Uso de propiedad intelectual protegida (estética visual de *Mortal Kombat*). | Legal / Copyright | El prompt omite marcas registradas, logos o textos de la franquicia. Utiliza términos descriptivos genéricos como "juego de peleas de última generación" para proteger comercialmente los activos de TechLed. |
+| **Imagen 3 (Estudio TV)** | Alucinación técnica en la fisonomía y estructura de equipos de filmación. | Técnico / Veracidad | Se agregaron términos estandarizados de la industria (`cinema camera on a dolly`, `ceiling-mounted grid lighting`) para anclar el modelo a referencias técnicas reales y evitar deformaciones en el render. |
+| **Catálogo General** | Generación de expectativas falsas sobre proyectos ya instalados por la empresa. | Transparencia | Se implementará un *disclaimer* explícito en el pie de los activos visuales aclarando que corresponden a "imágenes de concepto arquitectónico generadas mediante IA". |
+| **Audios 1 y 2 (ElevenLabs)** | Sesgos de representación o problemas de accesibilidad idiomática. | Social / Inclusión | Se configuraron prompts CLIP en inglés nativo y se seleccionaron modelos de voz específicos de mercado estadounidense (Marcus/Thomas) con acentos limpios y entonación ejecutiva para validar la autoridad B2B de la marca. |
+<img width="1672" height="941" alt="Imagen IA 1" src="https://github.com/user-attachments/assets/cab1df38-7954-42b3-b562-5b1bcf92afa9" />
+<img width="1672" height="941" alt="Imagen IA 2" src="https://github.com/user-attachments/assets/89efeddb-c0ba-4e74-86fe-4c2d330b3a4a" />
+<img width="1672" height="941" alt="Imagen IA 3" src="https://github.com/user-attachments/assets/1fdb6011-596a-44b6-9b2a-1ce420ff3508" />
